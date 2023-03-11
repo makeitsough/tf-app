@@ -1,4 +1,4 @@
-#!/Users/paulschofield-personal/Documents/projects/fullstack_academy/tf-app/server/venv/bin/python3
+#!/Users/paulschofield-personal/Documents/projects/fullstack_academy/tf-app/server/venv/bin/python3.9
 # -*- coding: utf-8 -*-
 import re
 import sys
